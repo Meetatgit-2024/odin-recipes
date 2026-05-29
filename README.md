@@ -3,3 +3,4 @@ this is an ongoing web development project which involvves self learning through
 
 # Using HTML and Git
 for now we are simply using basic html resources to alter it.
+image credits to the original owners
